@@ -50,13 +50,16 @@
 .text2 {
     color: white;
     padding-left: 172px;
-    padding-right: 844px;
+    padding-right: 900px;
 }
  .shop {
     width: 234px;
     height: 56px;
     background-color: #38CB89;
+    margin-top: 28px;
     margin-left: 172px;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: lighter;
  }
 
  .shop2 {
