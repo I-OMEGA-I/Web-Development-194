@@ -75,8 +75,19 @@
     padding-top: 40px;
  }
 
- 
-
+ .backg {
+    background-image: url(../Image\ Placeholder.png);
+    width: 262px;
+    height: 349px;
     
+
+ }
+
+.top {
+    background-color: rgb(211, 209, 209);
+    width: 63px;
+    height: 24px;
+    padding-left: ;
+}
 
 
