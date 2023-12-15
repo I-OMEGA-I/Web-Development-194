@@ -70,67 +70,12 @@
     padding-bottom: 196px;
  }
 
- .headd {
-    padding-left: 172px;
-    padding-top: 40px;
- }
-
- .backg {
-    background-image: url(../Image\ Placeholder.png);
-    width: 262px;
-    height: 349px;
-    padding-left: 16px;
-    padding-top: 5px;
-    
-    
-
- }
-
-.top {
-    /* background-color: white;
-    width: 63px; */
-    height: 20px;
-    /* padding-left: 14px;
-    padding-right: 14px;
-    padding-top: 4px; */
-    /* padding-left: 28px;
-    border-radius: 5px 5px 5px 5px; */
-}
-
-.add {
-    /* background-color: black;
-    color: white;
-    width: 150px;
-    height: 46px;
-    font-size: 25px;
-    padding-left: 45px;
-    padding-top: 10px;
-    border-radius: 5px 5px 5px 5px;
-    margin-right: 0px;
-     */
-}
-
-.parent {
-    display: flex;
-    padding-top: 250px;
-    justify-content: center;
-    padding-right: 20px;
-    
-}
-
-.pic2 {
-    background-image: url(../Card.png)
-}
-
-.pic2 {
-    width: 278px;
-    height: 349px;
-}
-
 .fea {
     padding-left: 170px;
     padding-top: 48px;
 }
+
+
 
 
     
