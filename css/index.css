@@ -40,8 +40,9 @@
 
 .textt {
     color: white;
-    size: 300px;
     padding-top: 196px;
     padding-left: 172px;
     padding-right: 800px;
+    padding-bottom: 384px;
+    font-size: 71px;
 }
