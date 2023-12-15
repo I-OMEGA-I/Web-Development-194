@@ -15,4 +15,10 @@
     display: flex;
     justify-content: space-between;
     gap: 40px;
+    padding-right: 50px;
+}
+
+.pp {
+    padding-left: 160px;
+    font-weight: 900;
 }
