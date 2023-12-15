@@ -13,12 +13,20 @@
 
 .down2 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: 40px;
+    
     
 }
 
 .pp {
     padding-left: 160px;
     font-weight: 900;
+}
+
+.pics {
+    padding-right: 88px;
+    
+    gap: 16px;
+
 }
