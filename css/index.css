@@ -56,7 +56,16 @@
     width: 234px;
     height: 56px;
     background-color: #38CB89;
+    margin-left: 172px;
  }
+
+ .shop2 {
+    display: flex;
+    padding-left: 70px;
+    padding-right: 56px;
+    font-weight: 700;
+ }
+
 
     
 
