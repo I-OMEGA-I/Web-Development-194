@@ -4,6 +4,15 @@
     background-color: #38CB89;
     display: flex;
     justify-content: center;
-    
-    
+}
+
+.down {
+    display: flex;
+    justify-content: space-between;
+}
+
+.down2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
 }
