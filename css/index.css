@@ -103,6 +103,8 @@
     height: 46px;
 }
 
-
+.parent {
+    display: flex;
+}
 
 
