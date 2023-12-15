@@ -26,7 +26,13 @@
 
 .pics {
     padding-right: 88px;
-    
     gap: 16px;
+
+}
+
+.image {
+    background-image: url(../images/Image\ Placeholder.png);
+    width: 100%;
+    height: 820px;
 
 }
