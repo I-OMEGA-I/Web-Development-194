@@ -51,10 +51,12 @@
     color: white;
     padding-left: 172px;
     padding-right: 844px;
-    
-
 }
-
+ .shop {
+    width: 234px;
+    height: 56px;
+    background-color: #38CB89;
+ }
 
     
 
