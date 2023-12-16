@@ -187,6 +187,8 @@
 
 .stars {
     display: flex;
+    gap: 198px;
+    padding-left: 160px;
 }
 
     
