@@ -203,7 +203,24 @@
     display: flex;
     justify-content: center;
     padding-top: 128px;
+    padding-bottom: 48px;
 }
+
+.picss {
+display: flex;
+justify-content: center;
+gap: 24px;
+
+}
+
+.child {
+    display: flex;
+    justify-content: center;
+    gap: 310px;
+
+}
+
+
 
     
 
