@@ -191,6 +191,19 @@
     padding-left: 160px;
 }
 
+.parentt {
+    display: flex;
+    padding-left: 160px;
+    padding-right: 160px;
+    gap: 70px;
+}
+
+.shop2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 128px;
+}
+
     
 
 
