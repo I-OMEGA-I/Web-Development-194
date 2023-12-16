@@ -260,6 +260,19 @@ padding-top: 48px;
 .hurry {
     color: white;
     padding-left: 72px;
+    font-size: 40px;
+}
+
+.findd {
+    color: white;
+    padding-left: 72px;
+    font-weight: lighter;
+}
+
+.offer {
+    color: white;
+    padding-left: 72px;
+    font-weight: lighter;
 }
 
 
