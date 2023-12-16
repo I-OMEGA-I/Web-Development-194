@@ -369,6 +369,12 @@ padding-top: 48px;
     padding-left: 160px;
 }
 
+.more {
+    display: flex;
+    gap: 25px;
+    padding-left: 160px;
+}
+
 
 
 
