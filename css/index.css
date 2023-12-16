@@ -332,6 +332,35 @@ padding-top: 48px;
     padding-left: 160px;
 }
 
+.main2 {
+    background-image: url(../Paste\ image\ copy\ 2.png);
+    width: 548px;
+    height: 664px;
+
+}
+
+.main3 {
+    background-image: url(../111.png);
+    width: 548px;
+    height: 319px;
+}
+
+.main4 {
+    background-image: url(../222.png);
+    width: 548px;
+    height: 319px;
+}
+
+.main {
+    display: flex;
+    padding-left: 160px;
+    gap: 24px;
+}
+
+.main4 {
+    margin-top: 24px;
+}
+
 
 
 
