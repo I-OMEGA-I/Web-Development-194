@@ -235,12 +235,32 @@ padding-top: 48px;
 
 .picture {
     background-color: black;
-    width: 700px;
+    width: 705px;
     height: 532px;
     float: right;
 }
 
+.picture22 {
+    background-color: black;
+    width: 500px;
+    height: 532px;
+}
 
+.parenttt {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paragraph {
+    color: #38CB89;
+    padding-left: 72px;
+    padding-top: 101px;
+}
+
+.hurry {
+    color: white;
+    padding-left: 72px;
+}
 
 
     
