@@ -426,10 +426,12 @@ padding-top: 48px;
     padding-top: 40px;
 }
 
+
 .lastt {
     width: 100%;
     height: 542px;
     background-color: black;
+    display: flex;
 }
 
 .moree {
@@ -437,6 +439,36 @@ padding-top: 48px;
     padding-left: 160px;
     padding-top: 80px;
 }
+
+.pagee {
+    color: white;
+}
+
+.pagee2 {
+    color: white;
+}
+
+.office {
+    color: white;
+}
+
+.whole {
+    display: flex;
+    padding-top: 80px;
+    padding-left: 316px;
+    gap: 84px;
+}
+
+.footer {
+    color: rgb(101, 99, 99);
+    padding-top: 120px;
+}
+
+.footerr {
+    display: flex;
+    padding-top: 170px;
+}
+
 
 
 
