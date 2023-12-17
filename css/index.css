@@ -466,7 +466,9 @@ padding-top: 48px;
 
 .footerr {
     display: flex;
+    gap: 8px;
     padding-top: 170px;
+    margin-right: 120px;
 }
 
 
